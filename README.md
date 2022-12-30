@@ -33,7 +33,10 @@ Step 10: Check for the condition for the closest friend
 Step 11: Check for the one hop away nodes
 	11.1 Display the similarities
 
-![image](https://user-images.githubusercontent.com/33839706/210065761-ab762fd0-5765-41a4-b3eb-8b3863739e21.png)
+![image](https://user-images.githubusercontent.com/33839706/210065891-37ea71db-09a3-4175-ada1-7b5f71b63fd1.png)
+
+
+![image](https://user-images.githubusercontent.com/33839706/210065870-636d900e-5527-4cd7-a1ce-cdcb411d0cec.png)
 
 
 ![image](https://user-images.githubusercontent.com/33839706/210065413-7291a87e-b0f6-4711-aedd-a6c03729cbac.png)
