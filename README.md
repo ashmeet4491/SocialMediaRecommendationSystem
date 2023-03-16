@@ -1,4 +1,4 @@
-# minor1
+# Social Media Recommendation System
 Social media has been building up a vast network of connections between people around the world. Optimization is building this network with minimum and 
 nearest connections available and give a better and simple user experience to people.
 
